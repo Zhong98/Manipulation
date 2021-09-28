@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personnes>
+    <ps nom="Zhong">
+        <dateNaissance>
+            <annee>2000</annee>
+            <jour>1</jour>
+            <mois>2</mois>
+        </dateNaissance>
+        <prenom>Zixiao</prenom>
+    </ps>
+    <ps nom="Zhong">
+        <dateNaissance>
+            <annee>2000</annee>
+            <jour>2</jour>
+            <mois>3</mois>
+        </dateNaissance>
+        <prenom>Zixiao</prenom>
+    </ps>
+    <ps nom="Zhong">
+        <dateNaissance>
+            <annee>2000</annee>
+            <jour>1</jour>
+            <mois>2</mois>
+        </dateNaissance>
+        <prenom>Zixiao</prenom>
+    </ps>
+    <ps nom="Zhong">
+        <dateNaissance>
+            <annee>2000</annee>
+            <jour>2</jour>
+            <mois>3</mois>
+        </dateNaissance>
+        <prenom>Zixiao</prenom>
+    </ps>
+    <ps nom="Zhong">
+        <dateNaissance>
+            <annee>2000</annee>
+            <jour>1</jour>
+            <mois>2</mois>
+        </dateNaissance>
+        <prenom>Zixiao</prenom>
+    </ps>
+    <ps nom="Zhong">
+        <dateNaissance>
+            <annee>2000</annee>
+            <jour>2</jour>
+            <mois>3</mois>
+        </dateNaissance>
+        <prenom>Zixiao</prenom>
+    </ps>
+</personnes>

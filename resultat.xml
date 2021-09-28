@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Etudient nom="Zhong">
+    <dateNaissance>
+        <annee>1998</annee>
+        <jour>2</jour>
+        <mois>7</mois>
+    </dateNaissance>
+    <prenom>Zixiao</prenom>
+</Etudient>
